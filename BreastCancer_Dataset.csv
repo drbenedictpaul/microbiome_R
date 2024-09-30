@@ -1,17 +1,17 @@
 Sample ID,Sex,Age ,Marrital Status,Initial Diagnosis Age,Menopausal Status (at the time of Diag),BC Type ,TNM Staging,BC Stage,Fn_Status,fadA,fipA
-BCOW001,Female,52,Married ,45,Premenopausal,Hormone Sensitive ,,III,Positive,Neg,Neg
-BCOW002,Female,40,Married ,39,Premenopausal,Hormone Sensitive ,pT1bN0M0,Benign,Positive,Positive,Positive
-BCOW003,Female,47,Married ,47,Postmenopausal,Hormone Sensitive ,,I,Positive,Neg,Positive
-BCOW004,Female,62,Married ,60,Postmenopausal,Hormone Sensitive ,pT2N1M0,IV,Positive,Neg,Neg
-BCOW005,Female,66,Married ,58,Postmenopausal,Hormone Sensitive ,,IV,Positive,Neg,Positive
+BCOW001,Female,52,Married ,45,Premenopausal,Hormone Sensitive,,III,Positive,Neg,Neg
+BCOW002,Female,40,Married ,39,Premenopausal,Hormone Sensitive,pT1bN0M0,Benign,Positive,Positive,Positive
+BCOW003,Female,47,Married ,47,Postmenopausal,Hormone Sensitive,,I,Positive,Neg,Positive
+BCOW004,Female,62,Married ,60,Postmenopausal,Hormone Sensitive,pT2N1M0,IV,Positive,Neg,Neg
+BCOW005,Female,66,Married ,58,Postmenopausal,Hormone Sensitive,,IV,Positive,Neg,Positive
 BCOW006,Female,48,Married ,43,Postmenopausal,TNBC,,IV,Neg,Neg,Neg
 BCOW007,Female,63,Married ,57,Postmenopausal,TNBC,T4bN1M0,III,Positive,Positive,Positive
-BCOW008,Female,53,Married ,50,Premenopausal,Hormone Sensitive ,CT3N2M0,III,Positive,Positive,Neg
-BCOW009,Female,78,Married ,77,Postmenopausal,Hormone Sensitive ,,IV,Positive,Neg,Neg
-BCOW010,Female,38,Married ,35,Premenopausal,Hormone Sensitive ,,IV,Positive,Neg,Positive
-BCOW011,Female,44,Married ,38,Premenopausal,Hormone Sensitive ,pT2N2a,III,Neg,Neg,Neg
-BCOW012,Female,45,Married ,44,Postmenopausal,Hormone Sensitive ,T4bN3aM0,IV,Positive,Positive,Positive
-BCOW013,Female,51,Married ,50,Postmenopausal,Hormone Sensitive ,T2N1M0,III,Neg,Neg,Neg
+BCOW008,Female,53,Married ,50,Premenopausal,Hormone Sensitive,CT3N2M0,III,Positive,Positive,Neg
+BCOW009,Female,78,Married ,77,Postmenopausal,Hormone Sensitive,,IV,Positive,Neg,Neg
+BCOW010,Female,38,Married ,35,Premenopausal,Hormone Sensitive,,IV,Positive,Neg,Positive
+BCOW011,Female,44,Married ,38,Premenopausal,Hormone Sensitive,pT2N2a,III,Neg,Neg,Neg
+BCOW012,Female,45,Married ,44,Postmenopausal,Hormone Sensitive,T4bN3aM0,IV,Positive,Positive,Positive
+BCOW013,Female,51,Married ,50,Postmenopausal,Hormone Sensitive,T2N1M0,III,Neg,Neg,Neg
 BCOW014,Female,42,Married ,40,Premenopausal,Hormone Sensitive,,IV,Neg,Neg,Neg
 BCOW015,Female,52,Married ,51,Postmenopausal,Hormone Sensitive,PT3N2M0,IV,Positive,Neg,Neg
 BCOW016,Female,51,Married ,49,Premenopausal,Hormone Sensitive,CT2N3aM0,III,Positive,Neg,Positive
