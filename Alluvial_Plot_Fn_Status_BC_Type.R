@@ -7,7 +7,7 @@ library(ggplot2)
 library(ggalluvial)
 library(dplyr)
 
-# Read the dataset (replace 'BreastCancer_Dataset.csv' with your file path if needed)
+# Read the dataset 
 data <- read.csv("BreastCancer_Dataset.csv")
 
 # Clean up the 'BC Type' column by removing extra spaces
